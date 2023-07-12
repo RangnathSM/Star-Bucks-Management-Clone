@@ -1,0 +1,70 @@
+.frame
+{
+    margin-left: 450px;
+    margin-top: 40px;
+    
+}
+.addItems
+{
+    border: 2px solid rgb(5, 92, 5);
+    border-radius: 20px;
+    box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.306);
+    width: 600px;
+    height: 500px;
+}
+
+.itemsform
+{
+    margin-left: 140px;
+   
+  
+}
+
+.name
+{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    font-weight: bold;
+}
+.quantity
+{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    font-weight: bold;
+}
+.price
+{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    font-weight: bold;
+}
+.photo
+{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    font-weight: bold;
+}
+.Additem
+{
+    padding: 10px;
+    width: 350px;
+    margin-left: -15px;
+    border: 2px solid rgb(4, 69, 17);
+    background-color: rgb(5, 74, 15);
+    color: white;
+    border-radius: 10px;
+    font-weight: bold;
+    transition: .5s;
+}
+
+.Additem:hover
+{
+    background-color: white;
+    color: green;
+    border: 1px solid rgb(2, 74, 16);
+    
+}

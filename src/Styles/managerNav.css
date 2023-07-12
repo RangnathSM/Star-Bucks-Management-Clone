@@ -1,0 +1,74 @@
+.managernav
+{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    height: 65px;
+
+    
+}
+
+.lo img
+{
+    width: 70px;
+    height: 70px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.lists ul
+{
+    display: flex;
+    flex-direction: row;
+    margin-left: 60px;
+    font-weight: bold;
+}
+
+ul li
+{
+    margin-top: 15px;
+    margin-left: 50px;
+    list-style-type: none;
+    
+}
+.header h1
+{
+    color: rgb(47, 128, 107);
+    margin: 0px;
+    margin-top: 20px;
+    margin-left: 10px;
+    
+}
+
+.lists a
+{
+    color: rgb(3, 3, 3);
+    text-decoration: none;
+    
+}
+
+.F 
+{
+    margin-top: 20px;
+    margin-left: 300px;
+}
+
+.F button
+{
+    
+    border: 1px solid rgb(5, 91, 5);
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 15px;
+    transition: .5s;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(5, 75, 5);
+}
+
+.F button:hover
+{
+    color: rgb(5, 75, 5);
+    background-color: white;
+    border: 1px solid rgb(5, 91, 5);
+}

@@ -1,0 +1,69 @@
+{
+  "Items": [
+    {
+      "id": 1,
+      "name": "Java Chip Frapuccino",
+      "imageurl": "https://starbucks-cdn-01.s3.ap-south-1.amazonaws.com/Items/Large/100501.jpg",
+      "Quantity": "Tall(354ML).392Kcal",
+      "Price": 351.75
+    },
+    {
+      "id": 2,
+      "name": "Java Chip Frapuccino",
+      "imageurl": "https://starbucks-cdn-01.s3.ap-south-1.amazonaws.com/Items/Large/100501.jpg",
+      "Quantity": "Tall(354ML).392Kcal",
+      "Price": 351.75
+    },
+    {
+      "id": 3,
+      "name": "Java Chip Frapuccino",
+      "imageurl": "https://starbucks-cdn-01.s3.ap-south-1.amazonaws.com/Items/Large/100501.jpg",
+      "Quantity": "Tall(354ML).392Kcal",
+      "Price": 351.75
+    }
+  ],
+  "Users": [
+    {
+      "name": "Rangnath Palegar",
+      "age": "22",
+      "email": "rangnathpalegar@gmail.com",
+      "phoneNumber": "6362413021",
+      "id": 1
+    },
+    {
+      "name": "Jagdeesh G P",
+      "age": "22",
+      "email": "jagadeesh@gmail.com",
+      "phoneNumber": "8139984460",
+      "id": 2
+    },
+    {
+      "name": "Praveen",
+      "age": "40",
+      "email": "praveen@gmail.com",
+      "phoneNumber": "558642325",
+      "id": 3
+    },
+    {
+      "name": "Bubbly chandu",
+      "age": "22",
+      "email": "chanducherry@gmail.com",
+      "phoneNumber": "5668246327",
+      "id": 4
+    },
+    {
+      "name": "Raghu Virat",
+      "age": "22",
+      "email": "raghuvirat@gmail.com",
+      "phoneNumber": "4644149841",
+      "id": 5
+    },
+    {
+      "name": "Pradeep B",
+      "age": "23",
+      "email": "pradeepb@gmail.com",
+      "phoneNumber": "4641511284",
+      "id": 6
+    }
+  ]
+}
